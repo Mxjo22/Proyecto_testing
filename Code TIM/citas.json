@@ -1,0 +1,18 @@
+[
+    {
+        "dni": "78942316",
+        "paciente": "RODRIGO LUZA",
+        "especialidad": "DERMATOLOGIA",
+        "medico": "Dr. Lopez",
+        "fecha_hora": "2026-05-03 11:00",
+        "estado": "Pendiente"
+    },
+    {
+        "dni": "60783385",
+        "paciente": "JUAN",
+        "especialidad": "PEDIATRIA",
+        "medico": "Dr. Carrasco",
+        "fecha_hora": "2026-05-04 10:00",
+        "estado": "Reasignada"
+    }
+]
